@@ -1,1 +1,3 @@
-# stuff-I-forget
+# Python
+## Performance
+https://wiki.python.org/moin/PythonSpeed/PerformanceTips#Loops
